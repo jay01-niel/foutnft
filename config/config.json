@@ -6,8 +6,8 @@
     "SYMBOL": "Tbnb",
     "ID": 97
   },
-  "NFT_NAME": "Fountain Turtle F4k",
-  "SYMBOL": "fout F4k",
+  "NFT_NAME": "Fountain Turtle",
+  "SYMBOL": "fout",
   "MAX_SUPPLY": 100,
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.001,
